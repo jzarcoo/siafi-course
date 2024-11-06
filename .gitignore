@@ -1,0 +1,10 @@
+Clase*.ipynb
+Cuaderno*.ipynb
+Algoritmos*.ipynb
+
+.ipynb_checkpoints/
+*.pdf
+*.zip
+
+git-prope/
+introduccion_ingenieria_software/
